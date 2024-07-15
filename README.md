@@ -1,2 +1,2 @@
 # Traveler-world
-Traveler-world is a online platform it provides guide for tourist to choose better destination with better plan
+Traveler World is an invaluable resource for those seeking to explore the globe with confidence and ease. It offers comprehensive destination guides that highlight top travel spots, including detailed information on attractions, local culture, and best times to visit. Users can compare various travel plans tailored to different budgets, interests, and travel styles, ensuring a personalized experience. 
